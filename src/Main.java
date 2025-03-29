@@ -9,15 +9,22 @@ public class Main {
         // lancer.registrarViagem(250);
         // lancer.exibirDetalhes();
 
-        Aluno aluno1 = new Aluno("Zé do Caixão", 1996, 7, 0, 0);
-        aluno1.calcularMedia();
-        aluno1.verificarAprovacao();
-        aluno1.exibirInfosAluno();
+        // Aluno aluno1 = new Aluno("Zé do Caixão", 1996, 7, 0, 0);
+        // aluno1.calcularMedia();
+        // aluno1.verificarAprovacao();
+        // aluno1.exibirInfosAluno();
 
-        Aluno aluno2 = new Aluno("Max Cavalera", 1969, 7, 7, 7);
-        aluno2.calcularMedia();
-        aluno2.verificarAprovacao();
-        aluno2.exibirInfosAluno();
+        // Aluno aluno2 = new Aluno("Max Cavalera", 1969, 7, 7, 7);
+        // aluno2.calcularMedia();
+        // aluno2.verificarAprovacao();
+        // aluno2.exibirInfosAluno();
+
+        // Gerente gerente = new Gerente("Pedro", 20000);
+        // System.out.println("Gerente recebe: " + gerente.getSalario());
+
+        // Estagiario estagiario = new Estagiario("Nathan", 1500);
+        // System.out.println("Estagiario recebe: " + estagiario.getSalario());
+
     }
 
 }
