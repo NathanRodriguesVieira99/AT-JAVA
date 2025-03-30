@@ -1,0 +1,12 @@
+Produto: Paiero, 
+ Preço: 10,00, 
+ Quantidade: 59 
+----------------------------------------
+Produto: Vodka, 
+ Preço: 200,00, 
+ Quantidade: 9 
+----------------------------------------
+Produto: Halls, 
+ Preço: 1,50, 
+ Quantidade: 29 
+----------------------------------------
