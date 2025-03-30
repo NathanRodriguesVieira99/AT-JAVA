@@ -25,12 +25,12 @@ public class Main {
         // Estagiario estagiario = new Estagiario("Nathan", 1500);
         // System.out.println("Estagiario recebe: " + estagiario.getSalario());
 
-        ContaBancaria contaBancaria1 = new ContaBancaria("Pedro Machado", 500);
-        contaBancaria1.exibirSaldo();
-        contaBancaria1.depositar(500);
-        contaBancaria1.exibirSaldo();
-        contaBancaria1.sacar(100);
-        contaBancaria1.exibirSaldo();
+        // ContaBancaria contaBancaria1 = new ContaBancaria("Pedro Machado", 500);
+        // contaBancaria1.exibirSaldo();
+        // contaBancaria1.depositar(500);
+        // contaBancaria1.exibirSaldo();
+        // contaBancaria1.sacar(100);
+        // contaBancaria1.exibirSaldo();
 
     }
 
